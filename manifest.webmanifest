@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Shows latest Lee Square Notice.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/pin-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Lee Square Pinboard",
+  "short_name": "LS-Pinboard",
+  "start_url": "/abduls20/Pinboard/index.html"
+}
