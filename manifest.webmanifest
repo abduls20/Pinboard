@@ -4,7 +4,7 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/pin-icon.png",
+      "src": "pin-icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
