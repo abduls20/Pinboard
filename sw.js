@@ -4,6 +4,7 @@ self.addEventListener('install', (e) => {
       '/abduls20/Pinboard/',
       '/abduls20/Pinboard/index.html',
       '/abduls20/Pinboard/index.js',
+      '/abduls20/Pinboard/style.css',
     ])),
   );
 });
